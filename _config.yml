@@ -1,7 +1,7 @@
 # Site settings
 title: Lynn's Blog
 SEOTitle: 李莹的博客 | Lynn's Blog
-header-img: img/home-bg2.jpg
+header-img: img/home-bg.jpg
 email: ly29455586@163.com
 description: "喜欢音乐，摄影，旅游的非典型程序猿 | 计算机视觉，深度学习，视觉SLAM，ROS，web前端 。"
 keyword: "李莹, Lynn, C/C++,Linux, opencv，tracking，ROS，web前端"
@@ -12,7 +12,7 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     ____洋芋就是土豆
+weibo_username: ____洋芋就是土豆 
 github_username:    lynn294555
 #twitter_username:   huxpro
 #facebook_username:  huxpro
@@ -47,7 +47,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: lynn
 
 # Netease setttings
 netease_comment: false
