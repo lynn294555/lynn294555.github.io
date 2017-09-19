@@ -2,7 +2,7 @@
 layout:     post
 title:      "关于身体"
 subtitle:   " \"身体才是革命的本钱\""
-date:       2015-01-29 12:00:00
+date:       2017-09-19 12:00:00
 author:     "Lynn"
 header-img: "img/home-bg-art.jpg"
 catalog: true
